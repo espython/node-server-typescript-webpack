@@ -1,0 +1,27 @@
+{
+  "name": "node-express-typescript-webpack",
+  "version": "1.0.0",
+  "description": "node typescript project  with webpack",
+  "main": "index.js",
+  "author": "Eslam Hammam",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "webpack --watch"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.17.0",
+    "@typescript-eslint/parser": "^2.17.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.18.0",
+    "nodemon-webpack-plugin": "^4.2.2",
+    "prettier": "^1.19.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
