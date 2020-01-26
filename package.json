@@ -6,8 +6,8 @@
   "author": "Eslam Hammam",
   "license": "MIT",
   "private": false,
-  "test": "echo \"No test specified\"",
   "scripts": {
+    "test": "echo \"No test specified\"",
     "dev": "webpack --watch"
   },
   "devDependencies": {
