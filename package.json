@@ -6,6 +6,7 @@
   "author": "Eslam Hammam",
   "license": "MIT",
   "private": false,
+  "test": "echo \"No test specified\"",
   "scripts": {
     "dev": "webpack --watch"
   },
